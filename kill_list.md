@@ -6,3 +6,4 @@ Kill List
 * BILL
 * test
 * new
+* old
